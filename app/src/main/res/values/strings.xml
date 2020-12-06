@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiGranParte5</string>
+    <string name="first_name">Nombres</string>
+    <string name="last_name">Apellidos</string>
+    <string name="phone_number">Nro Celular</string>
+    <string name="save">Guardar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Borrar</string>
+    <string name="created_on">Fecha de ingreso</string>
+    <string name="title_createcontact">Crear Contacto</string>
+    <string name="Contact">Contactos</string>
+</resources>
